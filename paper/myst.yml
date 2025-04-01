@@ -15,6 +15,7 @@ project:
     -name: Douglas W. Oldenburg
       email: doug@eoas.ubc.ca
       orcid: 0000-0002-4327-2124
+      affiliation: ubc
   doi: 10.1111/j.1365-2478.1992.tb00554.x
   # arxiv: ARXIV
   # github: GITHUB-URL
